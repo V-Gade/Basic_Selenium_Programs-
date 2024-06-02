@@ -1,0 +1,10 @@
+2023-07-26 00:08:18,034 - Log4JLogging -INFO - Chrome browser instance opened
+2023-07-26 00:08:18,179 - Log4JLogging -INFO - Window Maximized
+2023-07-26 00:08:20,745 - Log4JLogging -INFO - Application opened
+2023-07-29 16:06:15,220 - Log4JLogging -INFO - Chrome browser instance opened
+2023-07-29 16:06:15,356 - Log4JLogging -INFO - Window Maximized
+2023-07-29 16:06:16,873 - Log4JLogging -INFO - Application opened
+2023-07-29 16:13:02,507 - Log4JLogging -INFO - Chrome browser instance opened
+2023-07-29 16:13:02,650 - Log4JLogging -INFO - Window Maximized
+2023-07-29 16:13:04,390 - Log4JLogging -INFO - Application opened
+2023-07-29 16:13:34,478 - Log4JLogging -INFO - Failure - 'emails' web element is not displayed
